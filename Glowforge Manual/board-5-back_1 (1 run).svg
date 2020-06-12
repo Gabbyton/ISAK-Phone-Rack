@@ -1,0 +1,46 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="31.43cm" height="20.53cm" viewBox="0 0 890.79 581.81">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 0.71px;
+      }
+    </style>
+  </defs>
+  <g id="LWPOLYLINE">
+    <rect class="cls-1" x="587.13" y="453.9" width="9.92" height="28.35"/>
+  </g>
+  <g id="LWPOLYLINE-2" data-name="LWPOLYLINE">
+    <rect class="cls-1" x="293.74" y="453.9" width="9.92" height="28.35"/>
+  </g>
+  <g id="LWPOLYLINE-3" data-name="LWPOLYLINE">
+    <rect class="cls-1" x="587.13" y="510.59" width="9.92" height="28.35"/>
+  </g>
+  <g id="LWPOLYLINE-4" data-name="LWPOLYLINE">
+    <rect class="cls-1" x="293.74" y="510.59" width="9.92" height="28.35"/>
+  </g>
+  <g id="LWPOLYLINE-5" data-name="LWPOLYLINE">
+    <rect class="cls-1" x="639.57" y="387.72" width="56.69" height="18.97"/>
+  </g>
+  <g id="LWPOLYLINE-6" data-name="LWPOLYLINE">
+    <rect class="cls-1" x="745.87" y="387.72" width="56.69" height="18.97"/>
+  </g>
+  <g id="LWPOLYLINE-7" data-name="LWPOLYLINE">
+    <rect class="cls-1" x="533.27" y="387.72" width="56.69" height="18.97"/>
+  </g>
+  <g id="LWPOLYLINE-8" data-name="LWPOLYLINE">
+    <rect class="cls-1" x="88.23" y="387.72" width="56.69" height="18.97"/>
+  </g>
+  <g id="LWPOLYLINE-9" data-name="LWPOLYLINE">
+    <rect class="cls-1" x="300.83" y="387.72" width="56.69" height="18.97"/>
+  </g>
+  <g id="LWPOLYLINE-10" data-name="LWPOLYLINE">
+    <rect class="cls-1" x="194.53" y="387.72" width="56.69" height="18.97"/>
+  </g>
+  <g id="LWPOLYLINE-11" data-name="LWPOLYLINE">
+    <polygon class="cls-1" points="880.51 581.46 880.51 468.07 890.43 468.07 890.43 439.72 880.51 439.72 880.51 354.69 890.43 354.69 890.43 326.34 880.51 326.34 880.51 241.3 890.43 241.3 890.43 212.95 880.51 212.95 880.51 127.91 890.43 127.91 890.43 99.57 880.51 99.57 880.51 0.35 10.28 0.35 10.28 99.57 0.35 99.57 0.35 127.91 10.28 127.91 10.28 212.95 0.35 212.95 0.35 241.3 10.28 241.3 10.28 326.34 0.35 326.34 0.35 354.69 10.28 354.69 10.28 439.72 0.35 439.72 0.35 468.07 10.28 468.07 10.28 581.46 880.51 581.46"/>
+  </g>
+</svg>

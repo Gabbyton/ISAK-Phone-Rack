@@ -1,0 +1,8 @@
+1. cut 6 35 x 27.5 pieces of 4 mm JAL plywood
+2. place a piece inside the laser cutter
+3. open glowforge and upload a board design
+4. on the workspace, put the design onto the wooden board 
+   and make sure everything fits. 
+   Lines turn orange once it could be cut. Leave a small margin 
+   for all cuts.
+5. on the left panel, make sure the sequence says CUT.
